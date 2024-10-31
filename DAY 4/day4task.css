@@ -1,0 +1,91 @@
+.div1{
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+    display: flex;
+    margin-bottom: 5rem;
+    justify-content: center;
+}
+
+.p1{
+   background-color: rgb(224, 224, 224);
+   padding: 10px;
+   margin: 0px 10px; 
+   border-radius: 5px;
+}
+
+.div2{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(10, 67, 10);
+    color: gainsboro;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.artboard{
+    padding-right: 500px;
+    display: flex;
+    align-items: center;
+}
+
+.p2{
+    padding: 10px;
+}
+
+.b1{
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 15px;
+    background-color: rgb(147, 227, 48);
+    margin: 10px;
+}
+
+.icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.b2{
+    background-color: rgb(53, 92, 53);
+    color: lightgray;
+    font-size: xx-large;
+    border-radius: 90%;
+    margin: 5px;
+}
+
+.div3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: gainsboro;
+    padding: 15px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.p3{
+    padding: 8px;
+    margin: 0px 10px;
+    display: flex;
+    align-items: center;
+}
+
+.gitbook{
+    margin-right: 400px;
+}
+
+.b3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border-radius: 15px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+    background-color: rgb(210, 216, 218);
+}
+
